@@ -5,7 +5,7 @@ jobs:
     machine:
       image: ubuntu-2004:current
     resource_class: large
-    parallelism: 25
+    parallelism: 10
     steps:
       - run: lscpu
       - run: curl ifconfig.me
